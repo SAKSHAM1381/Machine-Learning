@@ -2,12 +2,8 @@
 A project made by a group of 3 as a part of Coursework. 
 
 # Description of the project
-A simple yet challenging project, to anticipate the quality of wine. The com
-plexity arises due to the fact that the data set has fewer samples is highly
-imbalanced. Can you overcome these obstacles build a good predictive model
-to classify them? Features in the data set are continuous but all have dif
-ferent ranges, so we normalized them by dividing with the respective maximum
-of each feature which reduces the range between 0 and 1. Now that we have a
+A simple yet challenging project, to anticipate the quality of wine. The complexity arises due to the fact that the data set has fewer samples is highly imbalanced. Can you overcome these obstacles build a good predictive model
+to classify them? Features in the data set are continuous but all have different ranges, so we normalized them by dividing with the respective maximum of each feature which reduces the range between 0 and 1. Now that we have a
 normalized data set we have used Machine Learning model, in this case random
 forest, which is a ensemble model which creates decision trees. Random forest
 is a versatile, convenient machine learning technique that, in most cases, gives
