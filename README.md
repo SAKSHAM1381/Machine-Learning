@@ -1,4 +1,5 @@
 # Machine-Learning
+# Wine Quality & Evaluation
 A project made by a group of 3 as a part of Coursework. 
 
 # Description of the project
@@ -46,6 +47,7 @@ important available chemical and physiochemical compounds in their wines,
 one that has the capability to tune various variable quantities.
 
 # Machine-Learning
+# Movie Recommendation System
 A project made by a group of 2 as a part of Coursework.
 
 # Description of the project
